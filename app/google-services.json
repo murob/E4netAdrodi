@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48925873851",
+    "project_id": "e4netking",
+    "storage_bucket": "e4netking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48925873851:android:2fb3a4688b177d15d23b9e",
+        "android_client_info": {
+          "package_name": "net.e4net.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48925873851-fnjdpgqbp2inlo0fc7qhplojn356bi42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp5e6nDC0fHZwzr1ePjCdzHB9roV9EKc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48925873851-fnjdpgqbp2inlo0fc7qhplojn356bi42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
